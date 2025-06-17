@@ -3,3 +3,5 @@
 <p align="center">
   Desarrollador Front-End | Estudiante de Tecnicatura en Desarrollo Web 🇦🇷<br>
 </p>
+
+- 💼 Actualmente estoy trabajando para una start-up "Blue Diamond" como junior Front-End
