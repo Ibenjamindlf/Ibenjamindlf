@@ -8,11 +8,14 @@
 - 💼 Actualmente trabajo como Front-End Junior en la start-up Blue Diamond.
 
 ## 🔧 Habilidades y Tecnologías:
----
-Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:
+
+*Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:*
 
 🎨 Frontend y Diseño
-Lenguajes: HTML5, CSS3, JavaScript
+Lenguajes: 
+HTML5,
+CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+JavaScript
 
 Frameworks y Librerías: Bootstrap
 
