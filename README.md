@@ -14,7 +14,7 @@
 🎨 Frontend y Diseño
 Lenguajes: 
 HTML5,
-CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
 JavaScript
 
 Frameworks y Librerías: Bootstrap
