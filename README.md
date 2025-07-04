@@ -13,7 +13,7 @@
 
 🎨 Frontend y Diseño
 Lenguajes: 
-HTML5,
+HTML5 <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/html5/html5/html5-original.svg" width="40"/>" width="40"/>
 CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
 JavaScript
 
