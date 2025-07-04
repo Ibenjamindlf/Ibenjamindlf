@@ -101,3 +101,19 @@
 
 </div>
 </div>
+
+
+## 👥 Redes Sociales:
+
+<div align="center">
+    <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/benjamin-de-la-fuente-5228a82aa/" target="_blank">
+        <img src="icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"  />
+        <br><sub>Linkedin</sub>
+      </td>
+    </tr>
+  </table>
+  </a>
+</div>
