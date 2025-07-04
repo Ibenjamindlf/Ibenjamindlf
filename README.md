@@ -110,10 +110,10 @@
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/benjamin-de-la-fuente-5228a82aa/" target="_blank">
-        <img src="icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"  />
+        </a>
         <br><sub>Linkedin</sub>
       </td>
     </tr>
   </table>
-  </a>
 </div>
