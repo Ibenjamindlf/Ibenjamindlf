@@ -13,8 +13,8 @@
 *Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:*
 <div align="center">
   
-🎨 Frontend y Diseño
-###
+## 🎨 Frontend y Diseño
+
 <div align="center">
 
   <table>
@@ -48,8 +48,8 @@
 
 </div>
 
-⚙️ Backend y Bases de Datos
-###
+## ⚙️ Backend y Bases de Datos
+
 <div align="center">
 
   <table>
@@ -73,8 +73,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamindlf&layout=compact&theme=dark&title_color=D41C57&text_color=FFFFFF&hide_border=true" />
 
-🛠️ Herramientas y Otros
-###
+## 🛠️ Herramientas y Otros
+
 <div align="center">
 
   <table>
