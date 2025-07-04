@@ -46,6 +46,7 @@
   </table>
 
 </div>
+---
 
 ### ⚙️ Backend y Bases de Datos
 
@@ -69,8 +70,9 @@
   </table>
 
 </div>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamindlf&layout=compact&theme=dark&title_color=D41C57&text_color=FFFFFF&hide_border=true" />
+
+---
 
 ### 🛠️ Herramientas y Otros
 
