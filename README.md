@@ -104,13 +104,13 @@
     </tr>
   </table>
 
-  ## 📊 Estadísticas
+  ### 📊 Estadísticas
 
 <img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
 
 </div>
 
-  ## 👥 Redes Sociales:
+  ### 👥 Redes Sociales:
 
 
 <div align="center">
