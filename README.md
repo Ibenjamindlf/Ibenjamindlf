@@ -89,7 +89,7 @@
         <br><sub>Git</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-line.svg" height="40" alt="notion" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/deviconicons/notion/notion-plain.svg" height="40" alt="notion" />
         <br><sub>Notion</sub>
       </td>
       <td align="center">
