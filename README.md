@@ -10,7 +10,7 @@
 
 ## 🔧 Habilidades y Tecnologías:
 
-*Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:*
+*Lenguajes y tecnologías con las que trabajo actualmente o he trabajado en proyectos reales:*
 <div align="center">
   
 ### 🎨 Frontend y Diseño
