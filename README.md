@@ -4,6 +4,7 @@
   Desarrollador Front-End | Estudiante de Tecnicatura en Desarrollo Web 🇦🇷<br>
 </p>
 
+- 🚀 Apasionado por la tecnología, el diseño y el aprendizaje constante.
 
 - 💼 Actualmente trabajo como Front-End Junior en la start-up Blue Diamond.
 
@@ -119,7 +120,16 @@
     </tr>
   </table>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ibenjamindlf&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark" />
+### 📊 Estadísticas
+
+<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
+
+---
+
+### 🐍 Contribuciones estilo Snake
+
+![snake gif](https://github.com/ibenjamindlf/ibenjamindlf/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
