@@ -109,15 +109,11 @@
 <img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
 
 </div>
-</div>
 
-
+  ## 👥 Redes Sociales:
 
 
 <div align="center">
-  
-  ## 👥 Redes Sociales:
-  
     <table>
     <tr>
       <td align="center">
@@ -137,6 +133,6 @@
 
 
 </div>
-
+</div>
 
 
