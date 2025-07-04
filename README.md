@@ -115,7 +115,9 @@
 
 
 <div align="center">
+  
   ## 👥 Redes Sociales:
+  
     <table>
     <tr>
       <td align="center">
