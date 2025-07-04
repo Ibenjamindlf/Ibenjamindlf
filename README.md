@@ -69,18 +69,33 @@ Lenguajes:
   </table>
 
 </div>
-
-PHP
-
-Bases de datos: MySQL (SQL)
-
 🛠️ Herramientas y Otros
-Visual Studio Code
+###
+<div align="center">
 
-Git y GitHub
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio" />
+        <br><sub>Visual Studio</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+        <br><sub>Github</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+        <br><sub>Git</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-line.svg" height="40" alt="notion" />
+        <br><sub>Notion</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+        <br><sub>Figma</sub>
+      </td>
+    </tr>
+  </table>
 
-XAMPP / MAMP / WAMP
-
-Figma (si usás para diseño de interfaces)
-
-Trello / Notion (si usás para organización/proyectos)
+</div>
