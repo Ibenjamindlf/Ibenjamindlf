@@ -127,7 +127,7 @@
 
 ---
 
-## 🐍 Contribuciones estilo Snake
+### 🐍 Contribuciones estilo Snake
 
 ![snake gif](https://github.com/ibenjamindlf/ibenjamindlf/blob/output/github-contribution-grid-snake.svg)
 
