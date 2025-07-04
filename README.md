@@ -112,9 +112,10 @@
 </div>
 
 
-## 👥 Redes Sociales:
+
 
 <div align="center">
+  ## 👥 Redes Sociales:
     <table>
     <tr>
       <td align="center">
@@ -128,7 +129,7 @@
 
 ---
 
-### 🐍 Contribuciones estilo Snake
+## 🐍 Contribuciones estilo Snake
 
 ![snake gif](https://github.com/ibenjamindlf/ibenjamindlf/blob/output/github-contribution-grid-snake.svg)
 
