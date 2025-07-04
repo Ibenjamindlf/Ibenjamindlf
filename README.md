@@ -102,6 +102,10 @@
     </tr>
   </table>
 
+  ### 📊 Estadísticas
+
+<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
+
 </div>
 </div>
 
@@ -119,10 +123,6 @@
       </td>
     </tr>
   </table>
-  
-### 📊 Estadísticas
-
-<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
 
 ---
 
