@@ -40,7 +40,7 @@ Lenguajes:
         <br><sub>Bootstrap</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro" />
         <br><sub>Premiere Pro</sub>
       </td>
     </tr>
