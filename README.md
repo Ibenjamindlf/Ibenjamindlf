@@ -47,7 +47,7 @@ Lenguajes:
 
 </div>
 ⚙️ Backend y Bases de Datos
-Lenguajes: 
+Lenguajes:
 ###
 <div align="center">
 
