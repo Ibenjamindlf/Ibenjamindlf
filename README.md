@@ -12,7 +12,6 @@
 *Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:*
 
 🎨 Frontend y Diseño
-Lenguajes: 
 ###
 <div align="center">
 
@@ -46,8 +45,8 @@ Lenguajes:
   </table>
 
 </div>
+
 ⚙️ Backend y Bases de Datos
-Lenguajes:
 ###
 <div align="center">
 
@@ -69,6 +68,7 @@ Lenguajes:
   </table>
 
 </div>
+
 🛠️ Herramientas y Otros
 ###
 <div align="center">
