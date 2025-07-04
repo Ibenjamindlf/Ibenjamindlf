@@ -60,10 +60,6 @@
         <br><sub>PHP</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-        <br><sub>Python</sub>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
         <br><sub>MySQL</sub>
       </td>
