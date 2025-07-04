@@ -13,7 +13,6 @@
 
 🎨 Frontend y Diseño
 Lenguajes: 
-
 ###
 <div align="center">
 
@@ -47,14 +46,31 @@ Lenguajes:
   </table>
 
 </div>
-
-
-Frameworks y Librerías: Bootstrap
-
-(Podés agregar Tailwind o alguna librería de JS si la usás)
-
 ⚙️ Backend y Bases de Datos
-Lenguajes: PHP
+Lenguajes: 
+###
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+        <br><sub>PHP</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+        <br><sub>Python</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+        <br><sub>MySQL</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+PHP
 
 Bases de datos: MySQL (SQL)
 
