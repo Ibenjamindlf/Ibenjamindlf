@@ -13,7 +13,7 @@
 *Lenguajes, herramientas y tecnologías con las que me siento cómodo trabajando:*
 <div align="center">
   
-<h2>🎨 Frontend y Diseño</h2>
+<h1>🎨 Frontend y Diseño</h1>
 <div align="center">
   <table>
     <tr>
