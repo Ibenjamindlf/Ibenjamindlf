@@ -15,7 +15,6 @@
   
 <h2>🎨 Frontend y Diseño</h2>
 <div align="center">
-
   <table>
     <tr>
       <td align="center">
