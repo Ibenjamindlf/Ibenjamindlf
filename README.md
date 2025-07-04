@@ -39,6 +39,10 @@ Lenguajes:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
         <br><sub>Bootstrap</sub>
       </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro" />
+        <br><sub>Premiere Pro</sub>
+      </td>
     </tr>
   </table>
 
