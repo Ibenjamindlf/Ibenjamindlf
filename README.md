@@ -102,7 +102,7 @@
 
   ### 📊 Estadísticas
 
-<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true"/>
 
 </div>
 
