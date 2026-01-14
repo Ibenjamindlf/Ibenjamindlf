@@ -6,8 +6,6 @@
 
 - 🚀 Apasionado por la tecnología, el diseño y el aprendizaje constante.
 
-- 💼 Actualmente trabajo como Front-End Junior en la start-up Blue Diamond.
-
 ## 🔧 Habilidades y Tecnologías:
 
 *Lenguajes y tecnologías con las que trabajo actualmente o he trabajado en proyectos reales:*
