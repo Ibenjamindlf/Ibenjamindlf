@@ -1,132 +1,88 @@
-<h1 align="center">¡Bienvenido/a! 👋<br>Soy Benjamín de la Fuente</h1>
+<h1 align="center">¡Hola! Soy Benjamín de la Fuente 👋</h1>
 
 <p align="center">
-  Desarrollador Front-End | Estudiante de Tecnicatura en Desarrollo Web 🇦🇷<br>
+  <strong>Software Developer</strong> · Técnico Universitario en Desarrollo Web (UNCo) 🎓 · Argentina 🇦🇷
 </p>
 
-- 🚀 Apasionado por la tecnología, el diseño y el aprendizaje constante.
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjamin-de-la-fuente-5228a82aa/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 🔧 Habilidades y Tecnologías:
+---
 
-*Lenguajes y tecnologías con las que trabajo actualmente o he trabajado en proyectos reales:*
+## 🙋‍♂️ Sobre mí
+
+- 💻 Me desempeño principalmente del lado del **front-end**, y también de **Project Manager** cuando el proyecto lo pide.
+- 🏢 Hoy trabajo como **Software Developer en GATO S.R.L.** (Neuquén Capital), en modalidad híbrida.
+- 📈 Soy una persona proactiva, con muchas ganas de trabajar y crecer profesionalmente. Me mueve hacer siempre un poquito más: *"un 1% mejor cada día"*.
+
+---
+
+## 🔧 Tecnologías y Herramientas
+
+**💼 En mi día a día**
+
+<p>
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/PHP-Light.svg" alt="PHP" title="PHP" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/React-Light.svg" alt="React" title="React" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" title="Tailwind CSS" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/NodeJS-Light.svg" alt="Node.js" title="Node.js" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/ExpressJS-Light.svg" alt="Express.js" title="Express.js" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/PostgreSQL-Light.svg" alt="PostgreSQL" title="PostgreSQL" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/MariaDB-Light.svg" alt="MariaDB" title="MariaDB" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Supabase-Light.svg" alt="Supabase" title="Supabase" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Git.svg" alt="Git" title="Git" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Github-Light.svg" alt="GitHub" title="GitHub" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Postman.svg" alt="Postman" title="Postman" height="48" />
+</p>
+
+**📚 Actualmente aprendiendo**
+
+<p>
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Angular-Light.svg" alt="Angular" title="Angular" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Laravel-Light.svg" alt="Laravel" title="Laravel" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/MongoDB.svg" alt="MongoDB" title="MongoDB" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/Docker.svg" alt="Docker" title="Docker" height="48" />
+  <img src="https://raw.githubusercontent.com/Ibenjamindlf/Ibenjamindlf/main/assets/icons/AWS-Light.svg" alt="AWS" title="AWS" height="48" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
 <div align="center">
-  
-### 🎨 Frontend y Diseño
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-        <br><sub>HTML5</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-        <br><sub>CSS3</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-        <br><sub>JavaScript</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-        <br><sub>Bootstrap</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Photoshop" />
-        <br><sub>Photoshop</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro" />
-        <br><sub>Premiere Pro</sub>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ibenjamindlf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D41C57&icon_color=D41C57&text_color=C9D1D9" />
+    <img alt="Estadísticas de GitHub de Benjamín" src="https://github-readme-stats.vercel.app/api?username=ibenjamindlf&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=D41C57&icon_color=D41C57&text_color=24292F" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamindlf&layout=compact&hide_border=true&bg_color=0D1117&title_color=D41C57&text_color=C9D1D9" />
+    <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamindlf&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=D41C57&text_color=24292F" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ibenjamindlf&hide_border=true&background=0D1117&ring=D41C57&fire=D41C57&currStreakLabel=D41C57&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+    <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=ibenjamindlf&hide_border=true&background=FFFFFF&ring=D41C57&fire=D41C57&currStreakLabel=D41C57&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A" />
+  </picture>
 
 </div>
 
 ---
 
-### ⚙️ Backend y Bases de Datos
+## 🐍 Contribuciones
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-        <br><sub>PHP</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
-        <br><sub>MySQL</sub>
-      </td>
-    </tr>
-  </table>
-
+  <img alt="Snake recorriendo el grid de contribuciones" src="https://raw.githubusercontent.com/ibenjamindlf/ibenjamindlf/output/github-contribution-grid-snake.svg" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamindlf&layout=compact&theme=dark&title_color=D41C57&text_color=FFFFFF&hide_border=true" />
 
 ---
 
-### 🛠️ Herramientas y Otros
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio" />
-        <br><sub>Visual Studio</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-        <br><sub>Github</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-        <br><sub>Git</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" />
-        <br><sub>Notion</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-        <br><sub>Figma</sub>
-      </td>
-    </tr>
-  </table>
-
-  ### 📊 Estadísticas
-
-<img src="https://streak-stats.demolab.com/?user=ibenjamindlf&theme=dark&hide_border=true"/>
-
-</div>
-
-  ### 👥 Redes Sociales:
-
-
-<div align="center">
-    <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/benjamin-de-la-fuente-5228a82aa/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"  />
-        <br><sub>Linkedin</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-
----
-
-### 🐍 Contribuciones estilo Snake
-
-![snake gif](https://github.com/ibenjamindlf/ibenjamindlf/blob/output/github-contribution-grid-snake.svg)
-
-
-</div>
-</div>
-
-
+<p align="center">
+  <sub>¿Charlamos? Escribime por <a href="https://www.linkedin.com/in/benjamin-de-la-fuente-5228a82aa/">LinkedIn</a> 💬</sub>
+</p>
